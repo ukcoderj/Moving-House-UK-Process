@@ -63,3 +63,4 @@ Money transfer can take time if the person has a cap on how much they can move f
 Think the bottom of the chain might be sent a 'final statement' (though this might be what they are sent in order to send over the money). Once money is received, everyone needs to discuss the completion date and can then exchange.
 
 It can take a while to push through the exchange. Everyone must agree on a date and tell that date to their solicitor as the “final - let’s go”. It seems to take a while to get this agreed up and down the chain - especially if removals slots are tight. Sometimes the solicitor at the bottom of the chain will want word from solicitors above them in the chain of the agreed completion date. This is NOT required, but some do it to avoid re-doing paperwork if there has been a mis-communication somewhere.
+
