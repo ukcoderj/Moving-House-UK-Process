@@ -21,7 +21,7 @@ Solicitor = Conveyancer in this document.
 - **Your solicitor needs contract from sellers solicitor to start searches and these are a rate determining step. Make sure this is done. Ideally get everyone along the chain to check. We had a scenario where we thought we were ready to exchange, but someone in the chain hadn't even started**
 - Land searches - take 3-8 weeks depending on time. Get people up and down the chain to ensure searches have been started. A sale can't complete without searches.
 - Sort mortgage - check your lender will trust your solicitor. Some lenders have requirements for solicitors if the sale is over a set amount (e.g. over £300K). If your lender doesn't trust your solicitor, they will have their own solicitors review the data once your solicitor is happy. This can take weeks.
-- Valuation and building survey
+- Valuation and building survey (usually part of sorting the mortgage - some mortgage companies have 'approved suppliers' so maybe don't try to get ahead on this - just treat it as part of the mortgage application)
 - Review fixtures and fittings list
 - Surveys come back - review them and tell solicitor you’re happy with them. You may have to nudge your solicitor after a few weeks to check they are back and have been reviewed by your solicitor (who should advise on any issues)
 - Solicitor sends you a contract - sign and return - agree an exchange and completion date with other buyers/sellers at this time.
