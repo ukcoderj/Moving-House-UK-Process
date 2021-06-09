@@ -11,7 +11,7 @@ Solicitor = Conveyancer in this document.
 ## Buying
 
 
-- Line up a solicitor while you’re house hunting (or before) so your not hunting later
+- Line up a solicitor while you’re house hunting (or before) so you're not hunting later
 - Get an agreement in principle for a mortgage?
 
 ### When you’ve found a place:
