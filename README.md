@@ -50,6 +50,8 @@ Even after signing and returning your contract, you must instruct your solicitor
 
 ## Notes on Exchange
 
+In order to exchange, you need buildings insurance on the new property (as well as your own). This may be referred to as 'Sale and Purchase' cover.
+
 Signing the contract and returning it does not give the solicitor the right to exchange. You must explicitly tell them when to exchange, having agreed a completion date up/down the chain.
 
 Issues can arise just before completion, as people have a closer eye once it's getting real.
